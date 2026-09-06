@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 <h1>HOOZi APEX V3</h1>
 
 <p><strong>ESP &nbsp;|&nbsp; Smart Items &nbsp;|&nbsp; Throw Assist &nbsp;|&nbsp; Lua Scripts</strong></p>
