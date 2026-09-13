@@ -2,7 +2,6 @@
   
 <h1>HOOZi APEX V3</h1>
 <img width="1939" height="811" alt="24c1b41a3f3f7c7e8dbed5744280b1da" src="https://github.com/user-attachments/assets/2cd0bd16-f687-404c-859e-1e03d42899e8" />
-<img width="1935" height="812" alt="content" src="https://github.com/user-attachments/assets/e70d78cd-4dbd-4f55-b928-2c0710a1c4c6" />
 
 <p><strong>ESP &nbsp;|&nbsp; Smart Items &nbsp;|&nbsp; Throw Assist &nbsp;|&nbsp; Lua Scripts</strong></p>
 
