@@ -1,11 +1,11 @@
 <h1 align="center">HOOZi · Open Source</h1>
-<p align="center">硬核工程拆解 + 脱敏参考代码 · Deep-dive writeups & sanitized reference code</p>
+<p align="center">Writeups and sanitized reference code · 技术拆解与脱敏参考代码</p>
 
 ---
 
-Each row below is one topic folder — a self-contained bundle of a technical writeup, the diagrams that go with it, and a sanitized single-file reference implementation. Everything is relative-linked inside its own folder; copy a topic out with `cp -r` and it still works.
+Each row below is one topic folder — a writeup, the diagrams that go with it, and a sanitized single-file reference. Everything is relative-linked inside its own folder; copy a topic out with `cp -r` and it still works.
 
-每一行 = 一个 topic 子文件夹,内含:一篇技术拆解文章 + 配套架构图 + 脱敏单文件参考实现。文件夹内相对路径互相引用,`cp -r` 拷走照样能读。
+每一行 = 一个 topic 子文件夹,含一篇文章 + 配套图 + 脱敏参考实现。文件夹内相对路径互相引用,`cp -r` 拷走照样能读。
 
 ## Index / 目录
 
