@@ -10,6 +10,13 @@
   configuration flexibility and an extensible Lua scripting system.
 </p>
 
+## Open Source / 开源
+
+Writeups and sanitized reference code from our internals.
+从内部整理出的技术文章与脱敏参考代码。
+
+👉 **[Browse / 浏览](./opensource/)**
+
 </div>
 
 <p align="center">
